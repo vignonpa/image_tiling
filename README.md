@@ -1,6 +1,6 @@
 # Image Tiler
 
-A Python script to split large images into smaller tiles with optional filtering of small or mostly black tiles.
+A Python script to split large images into smaller tiles/snips with optional filtering of small or mostly black tiles.
 
 ## Features
 
